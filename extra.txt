@@ -1,0 +1,3 @@
+Git es una herramienta fascinante llena de curiosidades y hechos prácticos que conviene conocer si trabajas con código, documentación o proyectos colaborativos.
+
+Orígenes y nombre: Git fue creado por Linus Torvalds en 2005, el mismo autor del núcleo Linux. El nombre Git proviene de una broma en jerga británica que significa una persona desagradable, un guiño autocrítico de Linus. Git nació en apenas dos semanas tras un conflicto de licencias con BitKeeper, el sistema que el proyecto Linux usaba antes.
